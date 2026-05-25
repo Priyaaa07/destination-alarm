@@ -1,0 +1,8 @@
+{
+  "name": "SafeJourney - Smart Travel Alarm",
+  "description": "A mobile-first travel safety app that alerts you when you're nearing your destination, with emergency protocols and offline support.",
+  "requestFramePermissions": [
+    "geolocation",
+    "notifications"
+  ]
+}
